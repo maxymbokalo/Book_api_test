@@ -1,31 +1,31 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\maxym\\source\\repos\\book_api_task\\book_api_task\\book_api_task.csproj": {}
+    "C:\\Users\\maxym\\source\\repos\\Book_api_test\\book_api_task\\book_api_task.csproj": {}
   },
   "projects": {
-    "C:\\Users\\maxym\\source\\repos\\book_api_task\\book_api_task.Domain.Core\\book_api_task.Domain.Core.csproj": {
+    "C:\\Users\\maxym\\source\\repos\\Book_api_test\\book_api_task.Domain.Core\\book_api_task.Domain.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\maxym\\source\\repos\\book_api_task\\book_api_task.Domain.Core\\book_api_task.Domain.Core.csproj",
+        "projectUniqueName": "C:\\Users\\maxym\\source\\repos\\Book_api_test\\book_api_task.Domain.Core\\book_api_task.Domain.Core.csproj",
         "projectName": "book_api_task.Domain.Core",
-        "projectPath": "C:\\Users\\maxym\\source\\repos\\book_api_task\\book_api_task.Domain.Core\\book_api_task.Domain.Core.csproj"
+        "projectPath": "C:\\Users\\maxym\\source\\repos\\Book_api_test\\book_api_task.Domain.Core\\book_api_task.Domain.Core.csproj"
       },
       "frameworks": {
         "net472": {}
       }
     },
-    "C:\\Users\\maxym\\source\\repos\\book_api_task\\book_api_task.Domain.Interfaces\\book_api_task.Domain.Interfaces.csproj": {
+    "C:\\Users\\maxym\\source\\repos\\Book_api_test\\book_api_task.Domain.Interfaces\\book_api_task.Domain.Interfaces.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\maxym\\source\\repos\\book_api_task\\book_api_task.Domain.Interfaces\\book_api_task.Domain.Interfaces.csproj",
+        "projectUniqueName": "C:\\Users\\maxym\\source\\repos\\Book_api_test\\book_api_task.Domain.Interfaces\\book_api_task.Domain.Interfaces.csproj",
         "projectName": "book_api_task.Domain.Interfaces",
-        "projectPath": "C:\\Users\\maxym\\source\\repos\\book_api_task\\book_api_task.Domain.Interfaces\\book_api_task.Domain.Interfaces.csproj",
+        "projectPath": "C:\\Users\\maxym\\source\\repos\\Book_api_test\\book_api_task.Domain.Interfaces\\book_api_task.Domain.Interfaces.csproj",
         "frameworks": {
           "net472": {
             "projectReferences": {
-              "C:\\Users\\maxym\\source\\repos\\book_api_task\\book_api_task.Domain.Core\\book_api_task.Domain.Core.csproj": {
-                "projectPath": "C:\\Users\\maxym\\source\\repos\\book_api_task\\book_api_task.Domain.Core\\book_api_task.Domain.Core.csproj"
+              "C:\\Users\\maxym\\source\\repos\\Book_api_test\\book_api_task.Domain.Core\\book_api_task.Domain.Core.csproj": {
+                "projectPath": "C:\\Users\\maxym\\source\\repos\\Book_api_test\\book_api_task.Domain.Core\\book_api_task.Domain.Core.csproj"
               }
             }
           }
@@ -35,20 +35,20 @@
         "net472": {}
       }
     },
-    "C:\\Users\\maxym\\source\\repos\\book_api_task\\book_api_task.Infrastructure.Business\\book_api_task.Infrastructure.Data.csproj": {
+    "C:\\Users\\maxym\\source\\repos\\Book_api_test\\book_api_task.Infrastructure.Business\\book_api_task.Infrastructure.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\maxym\\source\\repos\\book_api_task\\book_api_task.Infrastructure.Business\\book_api_task.Infrastructure.Data.csproj",
+        "projectUniqueName": "C:\\Users\\maxym\\source\\repos\\Book_api_test\\book_api_task.Infrastructure.Business\\book_api_task.Infrastructure.Data.csproj",
         "projectName": "book_api_task.Infrastructure.Data",
-        "projectPath": "C:\\Users\\maxym\\source\\repos\\book_api_task\\book_api_task.Infrastructure.Business\\book_api_task.Infrastructure.Data.csproj",
+        "projectPath": "C:\\Users\\maxym\\source\\repos\\Book_api_test\\book_api_task.Infrastructure.Business\\book_api_task.Infrastructure.Data.csproj",
         "frameworks": {
           "net472": {
             "projectReferences": {
-              "C:\\Users\\maxym\\source\\repos\\book_api_task\\book_api_task.Domain.Core\\book_api_task.Domain.Core.csproj": {
-                "projectPath": "C:\\Users\\maxym\\source\\repos\\book_api_task\\book_api_task.Domain.Core\\book_api_task.Domain.Core.csproj"
+              "C:\\Users\\maxym\\source\\repos\\Book_api_test\\book_api_task.Domain.Core\\book_api_task.Domain.Core.csproj": {
+                "projectPath": "C:\\Users\\maxym\\source\\repos\\Book_api_test\\book_api_task.Domain.Core\\book_api_task.Domain.Core.csproj"
               },
-              "C:\\Users\\maxym\\source\\repos\\book_api_task\\book_api_task.Domain.Interfaces\\book_api_task.Domain.Interfaces.csproj": {
-                "projectPath": "C:\\Users\\maxym\\source\\repos\\book_api_task\\book_api_task.Domain.Interfaces\\book_api_task.Domain.Interfaces.csproj"
+              "C:\\Users\\maxym\\source\\repos\\Book_api_test\\book_api_task.Domain.Interfaces\\book_api_task.Domain.Interfaces.csproj": {
+                "projectPath": "C:\\Users\\maxym\\source\\repos\\Book_api_test\\book_api_task.Domain.Interfaces\\book_api_task.Domain.Interfaces.csproj"
               }
             }
           }
@@ -58,14 +58,14 @@
         "net472": {}
       }
     },
-    "C:\\Users\\maxym\\source\\repos\\book_api_task\\book_api_task\\book_api_task.csproj": {
+    "C:\\Users\\maxym\\source\\repos\\Book_api_test\\book_api_task\\book_api_task.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\maxym\\source\\repos\\book_api_task\\book_api_task\\book_api_task.csproj",
+        "projectUniqueName": "C:\\Users\\maxym\\source\\repos\\Book_api_test\\book_api_task\\book_api_task.csproj",
         "projectName": "book_api_task",
-        "projectPath": "C:\\Users\\maxym\\source\\repos\\book_api_task\\book_api_task\\book_api_task.csproj",
+        "projectPath": "C:\\Users\\maxym\\source\\repos\\Book_api_test\\book_api_task\\book_api_task.csproj",
         "packagesPath": "C:\\Users\\maxym\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\maxym\\source\\repos\\book_api_task\\book_api_task\\obj\\",
+        "outputPath": "C:\\Users\\maxym\\source\\repos\\Book_api_test\\book_api_task\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\maxym\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -81,14 +81,14 @@
         "frameworks": {
           "netcoreapp2.1": {
             "projectReferences": {
-              "C:\\Users\\maxym\\source\\repos\\book_api_task\\book_api_task.Domain.Core\\book_api_task.Domain.Core.csproj": {
-                "projectPath": "C:\\Users\\maxym\\source\\repos\\book_api_task\\book_api_task.Domain.Core\\book_api_task.Domain.Core.csproj"
+              "C:\\Users\\maxym\\source\\repos\\Book_api_test\\book_api_task.Domain.Core\\book_api_task.Domain.Core.csproj": {
+                "projectPath": "C:\\Users\\maxym\\source\\repos\\Book_api_test\\book_api_task.Domain.Core\\book_api_task.Domain.Core.csproj"
               },
-              "C:\\Users\\maxym\\source\\repos\\book_api_task\\book_api_task.Domain.Interfaces\\book_api_task.Domain.Interfaces.csproj": {
-                "projectPath": "C:\\Users\\maxym\\source\\repos\\book_api_task\\book_api_task.Domain.Interfaces\\book_api_task.Domain.Interfaces.csproj"
+              "C:\\Users\\maxym\\source\\repos\\Book_api_test\\book_api_task.Domain.Interfaces\\book_api_task.Domain.Interfaces.csproj": {
+                "projectPath": "C:\\Users\\maxym\\source\\repos\\Book_api_test\\book_api_task.Domain.Interfaces\\book_api_task.Domain.Interfaces.csproj"
               },
-              "C:\\Users\\maxym\\source\\repos\\book_api_task\\book_api_task.Infrastructure.Business\\book_api_task.Infrastructure.Data.csproj": {
-                "projectPath": "C:\\Users\\maxym\\source\\repos\\book_api_task\\book_api_task.Infrastructure.Business\\book_api_task.Infrastructure.Data.csproj"
+              "C:\\Users\\maxym\\source\\repos\\Book_api_test\\book_api_task.Infrastructure.Business\\book_api_task.Infrastructure.Data.csproj": {
+                "projectPath": "C:\\Users\\maxym\\source\\repos\\Book_api_test\\book_api_task.Infrastructure.Business\\book_api_task.Infrastructure.Data.csproj"
               }
             }
           }

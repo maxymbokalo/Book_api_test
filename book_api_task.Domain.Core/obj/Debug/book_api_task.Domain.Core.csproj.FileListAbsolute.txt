@@ -7,3 +7,12 @@ C:\Users\maxym\source\repos\book_api_task\book_api_task.Domain.Core\obj\Debug\bo
 C:\Users\maxym\source\repos\book_api_task\book_api_task.Domain.Core\obj\Debug\book_api_task.Domain.Core.dll
 C:\Users\maxym\source\repos\book_api_task\book_api_task.Domain.Core\obj\Debug\book_api_task.Domain.Core.pdb
 C:\Users\maxym\source\repos\book_api_task\book_api_task.Domain.Core\obj\Debug\book_api_task.Domain.Core.csprojAssemblyReference.cache
+C:\Users\maxym\source\repos\Book_api_test\book_api_task.Domain.Core\bin\Debug\book_api_task.Domain.Core.dll
+C:\Users\maxym\source\repos\Book_api_test\book_api_task.Domain.Core\bin\Debug\book_api_task.Domain.Core.pdb
+C:\Users\maxym\source\repos\Book_api_test\book_api_task.Domain.Core\bin\Debug\Microsoft.Analytics.Interfaces.dll
+C:\Users\maxym\source\repos\Book_api_test\book_api_task.Domain.Core\bin\Debug\Microsoft.Analytics.Interfaces.Streaming.dll
+C:\Users\maxym\source\repos\Book_api_test\book_api_task.Domain.Core\bin\Debug\Microsoft.Analytics.Types.dll
+C:\Users\maxym\source\repos\Book_api_test\book_api_task.Domain.Core\obj\Debug\book_api_task.Domain.Core.csprojAssemblyReference.cache
+C:\Users\maxym\source\repos\Book_api_test\book_api_task.Domain.Core\obj\Debug\book_api_task.Domain.Core.csproj.CopyComplete
+C:\Users\maxym\source\repos\Book_api_test\book_api_task.Domain.Core\obj\Debug\book_api_task.Domain.Core.dll
+C:\Users\maxym\source\repos\Book_api_test\book_api_task.Domain.Core\obj\Debug\book_api_task.Domain.Core.pdb

@@ -19,9 +19,9 @@ namespace book_api_task.Controllers
         }
         // GET api/books
         [HttpGet]
-        public IEnumerable<Book> Get()
+        public ActionResult<IEnumerable<Book>> Get()
         {
-            return repository.GetBookList();
+            return Ok(repository.GetBookList());
         }
 
         // GET api/books/5
@@ -62,7 +62,7 @@ namespace book_api_task.Controllers
             return Ok(book);
         }
 
-        // DELETE api/values/5
+        // DELETE api/books/5
         [HttpDelete("{id}")]
         public IActionResult Delete(int id)
         {

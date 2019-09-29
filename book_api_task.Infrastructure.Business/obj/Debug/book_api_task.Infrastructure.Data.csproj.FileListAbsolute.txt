@@ -11,3 +11,16 @@ C:\Users\maxym\source\repos\book_api_task\book_api_task.Infrastructure.Business\
 C:\Users\maxym\source\repos\book_api_task\book_api_task.Infrastructure.Business\obj\Debug\book_api_task.Infrastructure.Data.csproj.CopyComplete
 C:\Users\maxym\source\repos\book_api_task\book_api_task.Infrastructure.Business\obj\Debug\book_api_task.Infrastructure.Business.dll
 C:\Users\maxym\source\repos\book_api_task\book_api_task.Infrastructure.Business\obj\Debug\book_api_task.Infrastructure.Business.pdb
+C:\Users\maxym\source\repos\Book_api_test\book_api_task.Infrastructure.Business\bin\Debug\book_api_task.Infrastructure.Business.dll
+C:\Users\maxym\source\repos\Book_api_test\book_api_task.Infrastructure.Business\bin\Debug\book_api_task.Infrastructure.Business.pdb
+C:\Users\maxym\source\repos\Book_api_test\book_api_task.Infrastructure.Business\bin\Debug\book_api_task.Domain.Core.dll
+C:\Users\maxym\source\repos\Book_api_test\book_api_task.Infrastructure.Business\bin\Debug\book_api_task.Domain.Interfaces.dll
+C:\Users\maxym\source\repos\Book_api_test\book_api_task.Infrastructure.Business\bin\Debug\Microsoft.Analytics.Interfaces.dll
+C:\Users\maxym\source\repos\Book_api_test\book_api_task.Infrastructure.Business\bin\Debug\Microsoft.Analytics.Interfaces.Streaming.dll
+C:\Users\maxym\source\repos\Book_api_test\book_api_task.Infrastructure.Business\bin\Debug\Microsoft.Analytics.Types.dll
+C:\Users\maxym\source\repos\Book_api_test\book_api_task.Infrastructure.Business\bin\Debug\book_api_task.Domain.Core.pdb
+C:\Users\maxym\source\repos\Book_api_test\book_api_task.Infrastructure.Business\bin\Debug\book_api_task.Domain.Interfaces.pdb
+C:\Users\maxym\source\repos\Book_api_test\book_api_task.Infrastructure.Business\obj\Debug\book_api_task.Infrastructure.Data.csprojAssemblyReference.cache
+C:\Users\maxym\source\repos\Book_api_test\book_api_task.Infrastructure.Business\obj\Debug\book_api_task.Infrastructure.Data.csproj.CopyComplete
+C:\Users\maxym\source\repos\Book_api_test\book_api_task.Infrastructure.Business\obj\Debug\book_api_task.Infrastructure.Business.dll
+C:\Users\maxym\source\repos\Book_api_test\book_api_task.Infrastructure.Business\obj\Debug\book_api_task.Infrastructure.Business.pdb
