@@ -1,17 +1,11 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
+﻿using book_api_task.Domain.Interfaces;
+using book_api_task.Infrastructure.Data;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
-using Microsoft.AspNetCore.HttpsPolicy;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
-using Microsoft.Extensions.Logging;
-using Microsoft.Extensions.Options;
-using book_api_task.Domain.Interfaces;
-using book_api_task.Infrastructure.Data;
+using Swashbuckle.AspNetCore.Swagger;
 
 namespace book_api_task
 {
@@ -29,6 +23,11 @@ namespace book_api_task
         {
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_1);
             services.AddSingleton<IBookRepository, BookRepository>();
+            services.AddSwaggerGen(c =>
+            {
+            c.SwaggerDoc("v1", new Info{ Title = "Book Api", Description = "Swagger Book Api" });
+            }
+                );
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -45,6 +44,11 @@ namespace book_api_task
 
             app.UseHttpsRedirection();
             app.UseMvc();
+            app.UseSwagger();
+            app.UseSwaggerUI(c =>
+            {
+                c.SwaggerEndpoint("/swagger/v1/swagger.json", "Book API");
+            });
         }
     }
 }
